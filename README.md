@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <hr />
 
 ### GitHub Status
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=JonathanTheZero&show_icons=true&theme=tokyonight)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=JonathanTheZero&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true)
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTheZero&theme=tokyonight)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTheZero&theme=tokyonight&count_private=true&hide_border=true&layout=compact)<br/>
 
 <hr />
 
