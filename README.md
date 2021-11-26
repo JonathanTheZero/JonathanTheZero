@@ -33,9 +33,6 @@ Here are some ideas to get you started:
 
 </div>
 
-<!-- Needs to be there because for some reason nested containers don't work -->
-<p>&nbsp;</p>
-
 <hr />
 
 <p align="left"> 
