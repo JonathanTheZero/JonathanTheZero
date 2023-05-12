@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <div style="width: 50%;float: right" markdown=1>
 
 ### Top Languages
-        
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTheZero&theme=tokyonight&count_private=true&hide_border=true&layout=compact&&size_weight=0.5&count_weight=0.5)
+<!-- ignore jRobot because it's 93% automatically generated HTML docs -->        
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTheZero&theme=tokyonight&count_private=true&hide_border=true&layout=pie&size_weight=0.5&count_weight=0.5&exclude_repo=JRobot&langs_count=10)
 </div>
 
 </div>
