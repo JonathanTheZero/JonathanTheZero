@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### Top Languages
         
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTheZero&theme=tokyonight&count_private=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTheZero&theme=tokyonight&count_private=true&hide_border=true&layout=compact&&size_weight=0.5&count_weight=0.5)
 </div>
 
 </div>
